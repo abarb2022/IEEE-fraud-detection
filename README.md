@@ -16,7 +16,7 @@ model_inference - ამ ფაილში ხდება test set ზე პ�
 
 ## logistic regression
 
-### Feature Engineering
+## Feature Engineering
 თავიდან Nan ცვალდებს ვამუშავებ მარტივად, ვავსებ მოდით. კატეგორიულების გადასაყვანად გამოვიყენე TargetEncoder
 ## Feature Selection
 ვფილტრავ მაღალკოლერიებულ და დაბალი ვარიაციის მქონე featureb-ს.
